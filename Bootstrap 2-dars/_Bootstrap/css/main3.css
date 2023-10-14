@@ -1,0 +1,126 @@
+body{
+    font-size: 13px;
+}
+.bt{
+    margin-left: 560px !important;
+}
+.bt1{
+    border: 0;
+    border-radius: 20px;
+    width: 100px;
+    height: 35px;
+    background: linear-gradient(20deg,peachpuff,orange,orangered);
+   box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+}
+.bt2{
+    border: 0;
+    border-radius: 20px;
+    width: 100px;
+    height: 35px;
+    background: linear-gradient(20deg,deeppink, #9038e9);
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+}
+.bt3{
+    border: 0;
+    border-radius: 20px;
+    width: 100px;
+    height: 35px;
+    background: linear-gradient(20deg,dodgerblue, #021069);
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+}
+.bt4{
+    border: 0;
+    border-radius: 20px;
+    width: 100px;
+    height: 35px;
+    background: linear-gradient(20deg, #0a93ee, #00ff90);
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+}
+.rasm{
+    width: 40px;
+    height: 40px;
+}
+.rasm:nth-child(4){
+    position: relative;
+    bottom: 6px;
+    width: 55px;
+    height: 55px;
+}
+.rasm:nth-child(10){
+    position: relative;
+    bottom: 6px;
+    width: 55px;
+    height: 55px;
+}
+.rasm1 {
+    position: relative;
+    margin-left: 160px !important;
+
+}
+.bt5{
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+    border: 0;
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+}
+.bt6{
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+    border: 0;
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: lightseagreen;
+}
+.bt7{
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+    border: 0;
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: mediumpurple;
+}
+.bt8{
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+    border: 0;
+    border-radius: 20px;
+    width: 110px;
+    height: 40px;
+    background-color: dodgerblue;
+}
+.css{
+    margin-left: 140px !important;
+}
+.css1{
+    margin-left: 140px !important;
+}
+.bt9{
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+    width: 110px;
+    height: 40px;
+}
+.bt10{
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+    width: 110px;
+    height: 40px;
+    border-color: lightseagreen;
+    color: lightseagreen;
+}
+.bt11{
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+    width: 110px;
+    height: 40px;
+    border-color: mediumpurple;
+    color: mediumpurple;
+}
+.bt12{
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(80 ,80,80,0.5);
+    width: 110px;
+    height: 40px;
+    border-color: dodgerblue;
+    color: dodgerblue;
+}
